@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryu-22/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Aryu-22/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Aryu-22/DSA/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Aryu-22/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aryu-22/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aryu-22/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Aryu-22/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
