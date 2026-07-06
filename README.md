@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryu-22/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aryu-22/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aryu-22/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Aryu-22/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryu-22/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Aryu-22/DSA/tree/master/0152-maximum-product-subarray) |
@@ -16,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryu-22/DSA/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Aryu-22/DSA/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryu-22/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aryu-22/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aryu-22/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Aryu-22/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryu-22/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -59,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aryu-22/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryu-22/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryu-22/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
