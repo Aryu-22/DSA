@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aryu-22/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aryu-22/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Aryu-22/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Aryu-22/DSA/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryu-22/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Aryu-22/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Aryu-22/DSA/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aryu-22/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Aryu-22/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Aryu-22/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aryu-22/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryu-22/DSA/tree/master/1331-rank-transform-of-an-array) |
