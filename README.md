@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aryu-22/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Aryu-22/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aryu-22/DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Aryu-22/DSA/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryu-22/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Aryu-22/DSA/tree/master/1291-sequential-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Aryu-22/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
