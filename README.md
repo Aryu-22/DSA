@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aryu-22/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aryu-22/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Aryu-22/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Aryu-22/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryu-22/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Aryu-22/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Aryu-22/DSA/tree/master/0169-majority-element) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryu-22/DSA/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Aryu-22/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Aryu-22/DSA/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
