@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aryu-22/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aryu-22/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Aryu-22/DSA/tree/master/0443-string-compression) |
+| [0680-valid-palindrome-ii](https://github.com/Aryu-22/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aryu-22/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aryu-22/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Aryu-22/DSA/tree/master/0443-string-compression) |
+| [0680-valid-palindrome-ii](https://github.com/Aryu-22/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/Aryu-22/DSA/tree/master/3701-compute-alternating-sum) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Aryu-22/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
