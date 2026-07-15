@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aryu-22/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Aryu-22/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aryu-22/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aryu-22/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Aryu-22/DSA/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryu-22/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aryu-22/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aryu-22/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryu-22/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aryu-22/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Aryu-22/DSA/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryu-22/DSA/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Aryu-22/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Aryu-22/DSA/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryu-22/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryu-22/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
