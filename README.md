@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryu-22/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Aryu-22/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aryu-22/DSA/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Aryu-22/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryu-22/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Aryu-22/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Aryu-22/DSA/tree/master/0169-majority-element) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryu-22/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aryu-22/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Aryu-22/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryu-22/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aryu-22/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aryu-22/DSA/tree/master/0242-valid-anagram) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryu-22/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Aryu-22/DSA/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aryu-22/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
