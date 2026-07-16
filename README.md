@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Aryu-22/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aryu-22/DSA/tree/master/0189-rotate-array) |
 | [2544-alternating-digit-sum](https://github.com/Aryu-22/DSA/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryu-22/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
