@@ -139,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Aryu-22/DSA/tree/master/0680-valid-palindrome-ii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aryu-22/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aryu-22/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
