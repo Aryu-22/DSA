@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aryu-22/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Aryu-22/DSA/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryu-22/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aryu-22/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3701-compute-alternating-sum](https://github.com/Aryu-22/DSA/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Aryu-22/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aryu-22/DSA/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Aryu-22/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aryu-22/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/Aryu-22/DSA/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryu-22/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aryu-22/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryu-22/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
