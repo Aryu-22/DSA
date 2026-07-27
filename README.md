@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aryu-22/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Aryu-22/DSA/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryu-22/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryu-22/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryu-22/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3701-compute-alternating-sum](https://github.com/Aryu-22/DSA/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aryu-22/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aryu-22/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryu-22/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryu-22/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aryu-22/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryu-22/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
