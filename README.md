@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aryu-22/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Aryu-22/DSA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Aryu-22/DSA/tree/master/0680-valid-palindrome-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aryu-22/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryu-22/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Aryu-22/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Aryu-22/DSA/tree/master/3701-compute-alternating-sum) |
 ## Greedy
 |  |
